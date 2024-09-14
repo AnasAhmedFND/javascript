@@ -46,16 +46,19 @@ let bhagfhol = trainrun / hour;
 console.log(bhagfhol)
 
 // seven
-let masinsm = 200;
-let everym = 200 / 6;
+let producmake = 200;
+let machinuse = 6;
 
-let addtwo = 2 + 6;
-let gun = addtwo * everym;
+let permachinmake = producmake / machinuse;
+let addmachin = 2;
 
-let notsale = 3;
+let totalmachin = machinuse + addmachin;
+let totalproduc = totalmachin * permachinmake;
+let notsell = 3;
+let havedproduc = totalproduc - notsell;
 
-let mibe = gun - notsale;
-console.log(mibe)
+console.log(havedproduc)
+
 
 // eight
 let chokletsope = 120;
