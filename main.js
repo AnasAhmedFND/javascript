@@ -1,49 +1,49 @@
 // one
 
-let sha = 25;
-let sba = 15;
+let sarahas = 25;
+let sarabought = 15;
 
-let total = sha + sba;
+let total = sarahas + sarabought;
 console.log(total)
 
 // two
-let jontm = 500;
-let joncast = 200;
+let jonhad = 500;
+let joncost = 200;
 
-let hm = jontm - joncast;
+let totalhavejon = jonhad - joncost;
 
-console.log(hm)
+console.log(totalhavejon)
 // three
-let everyhm = 120;
-let thour = 8;
+let perhourmakemachin = 120;
+let factorywillmakehour = 8;
 
-let et = everyhm * thour;
+let factoryeighthourmake = perhourmakemachin * factorywillmakehour;
 
-console.log(et)
+console.log(factoryeighthourmake)
 // four/
-let sari = 12;
-let mutsari = 8;
+let persareehavetree = 12;
+let totalhavesharee = 8;
 
-let ttree = sari * mutsari;
-let added = 20;
-console.log(ttree + added) 
+let totaltree = persareehavetree * totalhavesharee;
+let addedtree = 20;
+console.log(totaltree + addedtree) 
 // five
-let rbh = 5;
-let everybox = 10;
+let rahimhasfivebox = 5;
+let perboxhasorange = 10;
 
-let tpic = rbh * everybox;
-let boxgive = 12;
+let totalorange = rahimhasfivebox * perboxhasorange;
+let rahimgiveorange = 12;
 
-let result = tpic - boxgive;
-console.log(result)
+let nowhaveorange = tptotalorangeic - rahimgiveorange;
+console.log(nowhaveorange)
 
 // six
-let trainrun = 150;
-let hour = 3;
+let trainthreehoursgo = 150;
+let totalhours = 3;
 
-let bhagfhol = trainrun / hour;
+let perhoursgo = trainthreehoursgo / totalhours;
 
-console.log(bhagfhol)
+console.log(perhoursgo)
 
 // seven
 let producmake = 200;
@@ -61,12 +61,12 @@ console.log(havedproduc)
 
 
 // eight
-let chokletsope = 120;
-let everypek = 9;
+let ashopmanbought = 120;
+let perpekatkeeps = 9;
 
-let pekatg = 13;
-let paketf = everypek * pekatg;
+let totlafilappekat = 13;
+let pekatchoklet = perpekatkeeps * totlafilappekat;
 
-let pkpimi = chokletsope - paketf;
-console.log(pkpimi)
+let remainingchoklet = ashopmanbought - pekatchoklet;
+console.log(remainingchoklet)
 
