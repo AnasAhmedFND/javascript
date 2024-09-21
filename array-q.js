@@ -23,3 +23,9 @@ let removeelement = ['car','bike','bus'];
 let remove = removeelement.shift();
 console.log(remove);
 console.log(removeelement)
+// seven
+let carrier = ['boat','ship'];
+carrier.unshift('train','plane');
+console.log(carrier)
+carrier.splice('chical');
+console.log(carrier)
