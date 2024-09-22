@@ -29,3 +29,9 @@ carrier.unshift('train','plane');
 console.log(carrier)
 carrier.splice('chical');
 console.log(carrier)
+// eight
+let enemals = ['dog','cat','bird']
+delete enemals[2];
+console.log(enemals)
+// nine
+
