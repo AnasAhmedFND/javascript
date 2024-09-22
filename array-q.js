@@ -38,3 +38,10 @@ let alfa = [1,2,3,4,5,6];
 let deleted = alfa.splice(2, 2);
 
 console.log(alfa)
+// ten
+let classesNum =[1,2,3,4,5,6,7,8,9]
+let res = classesNum.findIndex(findThree);
+function findThree(value) {
+    return value === 5;
+}
+console.log(res);
