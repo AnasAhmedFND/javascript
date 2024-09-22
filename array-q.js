@@ -31,7 +31,10 @@ carrier.splice('chical');
 console.log(carrier)
 // eight
 let enemals = ['dog','cat','bird']
-delete enemals[2];
+delete enemals[1];
 console.log(enemals)
 // nine
+let alfa = [1,2,3,4,5,6];
+let deleted = alfa.splice(2, 2);
 
+console.log(alfa)
