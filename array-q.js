@@ -45,3 +45,8 @@ function findThree(value) {
     return value === 5;
 }
 console.log(res);
+// eleven
+let margeone = [1,2,3];
+let margetwo = [4,5,6];
+let margeadd = margeone.concat(margetwo);
+console.log(margeadd);

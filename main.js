@@ -70,3 +70,5 @@ let pekatchoklet = perpekatkeeps * totlafilappekat;
 let remainingchoklet = ashopmanbought - pekatchoklet;
 console.log(remainingchoklet)
 
+
+
