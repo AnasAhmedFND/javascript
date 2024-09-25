@@ -18,3 +18,28 @@ console.log(names)
 let nameed = names.reverse();
 console.log(nameed)
 
+
+// parseInt() method
+let px = parseInt("10.00");
+console.log(px)
+
+let py = parseInt("anasahmed",16);
+console.log(py)
+
+let pa = parseInt(22);
+console.log(pa)
+
+let pb = parseInt(10.55);
+console.log(pb)
+
+let pc = parseInt("23 66 80");
+console.log(pc)
+// parseFloat() Method
+let fa =parseFloat("10");
+console.log(fa);
+ 
+let fb = parseFloat("10.55");
+console.log(fb)
+
+let fc = parseFloat("he was 74");
+console.log(fc);
