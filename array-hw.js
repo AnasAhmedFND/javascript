@@ -22,25 +22,27 @@ for (let i = 0; i <jur.length; i++) {
     console.log("Number is even - " + jur[i]);
 }
 
-// three
-let text =[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
-for (i = 0; i <text.length; i++){
+// two/1
+let num =[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
+for (i = 0; i <num.length; i++){
     if (i % 2 == 0) {
-        console.log("Number is or -- " + text[i]);
+        console.log("num is or -- " + num[i]);
     }
 }
 
-for (i = 0; i <text.length; i++) {
+for (i = 0; i <num.length; i++) {
     if (i % 2 !== 0) {
-        console.log("Number is even -- " + text[i]);
+        console.log("Number is even -- " + num[i]);
     }
 }
 
+// three
+let studentage = [18,22,19,24,21,20,23,26,17];
+let addition = studentage.reduce((accumulator, currentvalue)=>{
+    return accumulator + currentvalue
+}, 0)
 
-for (i = 0; i <text.length; i++) {
-    console.log(text[i] + 10);
+console.log(addition);
 
-    
-}
-
+console.log(addition / studentage.length);
 
