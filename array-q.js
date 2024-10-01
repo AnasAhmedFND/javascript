@@ -118,4 +118,13 @@ nomArray.splice(3);
 console.log(nomArray);
 
 
+// for loop dia jug phol bahir korar sestem
+let array = [10, 20, 30, 40, 50];
+let result = 0;
+
+for (let i = 0; i <array.length; i++){
+    result += array[i]
+    
+}
+console.log( "for loop in array item addition -" + result );
 
