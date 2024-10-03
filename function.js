@@ -116,3 +116,12 @@ person.contact = 80724723
 console.log(person);
 console.log(person.height);
 
+// object typeof 2nd//
+let person2 = new Object()
+person2.name = "Ripa";
+person2.age = 18;
+person2.bloodGroup = "A+";
+person2.Hoem = "bmb"
+console.log(person2)
+
+
